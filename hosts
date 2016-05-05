@@ -1,0 +1,67 @@
+# Streamers host file 
+# 
+# by aaxxo
+#
+#
+# Copy all or parts you want of this text to your systems hosts file
+# 
+# How to change hosts file guide in the link below
+# http://www.howtogeek.com/howto/27350/beginner-geek-how-to-edit-your-hosts-file/
+#
+#
+
+# IP Loggers
+0.0.0.0 grabify.link www.grabify.link
+0.0.0.0 iplogger.org www.iplogger.org
+0.0.0.0 blasze.com www.blasze.com
+0.0.0.0 skypegrab.net www.skypegrab.net
+0.0.0.0 iplogger.com www.iplogger.com
+0.0.0.0 youramonkey.com www.youramonkey.com
+
+# URL Shortener services 
+0.0.0.0 bit.ly www.bit.ly
+0.0.0.0 bitly.com www.bitly.com
+0.0.0.0 bit.do www.bit.do
+0.0.0.0 ow.ly www.ow.ly
+0.0.0.0 ity.im www.ity.im
+0.0.0.0 is.gd www.is.gd
+0.0.0.0 tinyurl.com www.tinyurl.com
+0.0.0.0 bc.vc www.bc.vc
+0.0.0.0 tinyurl.com www.tinyurl.com
+0.0.0.0 u.to www.u.to
+0.0.0.0 j.mp www.j.mp
+0.0.0.0 u.to www.u.to
+0.0.0.0 cutt.us www.cutt.us
+0.0.0.0 yourls.org www.yourls.org
+0.0.0.0 x.co www.x.co
+0.0.0.0 scrnch.me www.scrnch.me
+0.0.0.0 lemde.fr www.lemde.fr
+0.0.0.0 1url.com www.1url.com
+0.0.0.0 tweez.me www.tweez.me
+0.0.0.0 7vd.cn www.7vd.cn
+0.0.0.0 v.gd www.v.gd
+0.0.0.0 dft.ba www.dft.ba
+0.0.0.0 aka.gr www.aka.gr
+0.0.0.0 tr.im www.tr.im
+0.0.0.0 tinyarrows.com www.tinyarrows.com 
+
+
+# Advertising shorteners
+0.0.0.0 adcrun.ch www.adcrun.ch
+0.0.0.0 cur.lv www.cur.lv
+0.0.0.0 q.gs www.q.gs
+0.0.0.0 po.st www.po.st
+0.0.0.0 viralurl.com www.viralurl.com
+0.0.0.0 vur.me www.vur.me
+0.0.0.0 twitthis.com www.twitthis.com
+0.0.0.0 u.bb www.u.bb
+0.0.0.0 prettylinkpro.com www.prettylinkpro.com
+0.0.0.0 buzurl.com www.buzurl.com
+0.0.0.0 viralurl.biz www.viralurl.biz
+0.0.0.0 adcraft.co www.adcraft.co
+0.0.0.0 virl.ws www.virl.ws
+0.0.0.0 filoops.info www.filoops.info
+0.0.0.0 adcraft.co www.adcraft.co
+0.0.0.0 vurl.bz www.vurl.bz
+0.0.0.0 vzturl.com www.vzturl.com
+0.0.0.0 vzturl.com www.vzturl.com
