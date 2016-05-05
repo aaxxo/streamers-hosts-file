@@ -1,5 +1,5 @@
-# streamers-hosts-file
-Streamers Hosts File to block IP loggers and url shorteners
+# Streamer Hosts file
+A streamers hosts file to block IP loggers and url shorteners
 
 ## How to use
 
